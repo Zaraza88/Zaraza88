@@ -1,13 +1,12 @@
 ### Hi there 👋, I'm Andrei
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
 
 ## I'm a BackEnd Developer
 - 💪 I like to write code
 - 🎉 I love to read and watch films
-- 🥅 I am constantly learning new things
+<!-- - 🥅 I am constantly learning new things -->
 <!-- - ⚡ I love writing an article for https://webtricks-master.ru/ -->
-- 🤹🏽 I like to shoot videos for youtube 
+<!-- - 🤹🏽 I like to shoot videos for youtube  -->
 
 ### Connect with me:
 
