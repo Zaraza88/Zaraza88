@@ -4,7 +4,7 @@
 ## I'm a BackEnd Developer
 - 💪 I like to write code
 - 🎉 I love to read and watch films
-- ⚡ I have been studying programming for 1 year
+- ⚡ I have been study programming for 1 year
 <!-- - 🤹🏽 I like to shoot videos for youtube  -->
 
 ### Connect with me:
