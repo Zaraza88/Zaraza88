@@ -43,4 +43,4 @@
 
 [telegram]: https://t.me/grriim_x
 [linkedin]: https://www.linkedin.com/in/andrey-lupik/
-[instagram]: https://www.instagram.com/zaraza.88/
+[instagram]: https://www.instagram.com/lamer.gg/
